@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Haonter">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🙋🏻‍♂️%20Hi!,%20i%20am%20edsad%20gfdgdf;&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=15000&size=30" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=🙋🏻‍♂️😆😆%20Hi!,%20i%20am%20edsad%20gfdgdf;&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=15000&size=30" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/Haonter">
@@ -24,7 +24,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<img width=10% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60f2b66e-1733-440a-ad24-25064eb5820d/d1lomba-35e7f3af-48eb-4d3c-8e3b-6388d70f4cd0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwZjJiNjZlLTE3MzMtNDQwYS1hZDI0LTI1MDY0ZWI1ODIwZFwvZDFsb21iYS0zNWU3ZjNhZi00OGViLTRkM2MtOGUzYi02Mzg4ZDcwZjRjZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uXM6opbNLzxXFVysR5i6R4eG7Q4yNiO-Nwygqtgqsbw"/> Technologies and Tools I use
+Technologies and Tools I use
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
