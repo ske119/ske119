@@ -31,7 +31,9 @@ function hola(){
 }
 ```
 
+<p align='center'>
 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Descripción de la imagen" style="width: 500px; height: 400px;">
+</p>
 
 <table>
   <tr>
