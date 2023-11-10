@@ -31,4 +31,4 @@ function hola(){
 }
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mwKJfNYwvm8?si=YEoM2FeM_xrxZSgG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Descripción de la imagen" style="width: 300px; height: 200px;">
