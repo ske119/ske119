@@ -18,7 +18,7 @@
 [Texto del Enlace](http://www.ejemplo.com)
 
 
-![Texto Alternativo]([ruta-de-la-imagen.jpg](https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg?x=480&y=375&quality=40)https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg?x=480&y=375&quality=40)
+![Texto Alternativo](https://www.cesurformacion.com/uploads/media/open-graph/02/2302-que-es-la-imagen-personal.png?v=1-0)
 
 > Esto es una cita.
 
