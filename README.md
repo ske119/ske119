@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ske119&show_icons=true&theme=radical)
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ske119&show_icons=true&theme=radical)</p>
 <img alt="Static Badge" src="https://img.shields.io/badge/hola-pepe-red">
 
 # Encabezado 1
