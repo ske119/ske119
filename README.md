@@ -32,3 +32,32 @@ function hola(){
 ```
 
 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Descripción de la imagen" style="width: 500px; height: 400px;">
+
+<table>
+  <tr>
+    <th>Encabezado 1</th>
+    <th>Encabezado 2</th>
+  </tr>
+  <tr>
+    <td>Dato 1</td>
+    <td>Dato 2</td>
+  </tr>
+</table>
+
+
+
+<button style="background-color: #4CAF50; color: white;">Haz clic</button>
+
+<a href="https://www.ejemplo.com" style="color: #0074d9; text-decoration: none;">Enlace Personalizado</a>
+
+
+
+<hr style="border: 2px solid #f00;">
+
+
+<form action="procesar.php" method="post">
+  <label for="nombre">Nombre:</label>
+  <input type="text" id="nombre" name="nombre">
+  <br>
+  <input type="submit" value="Enviar">
+</form>
